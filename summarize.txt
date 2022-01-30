@@ -1,0 +1,15 @@
+Node Js is programmed by Ryan Dahl
+
+And I have summarized the following things from the video where Ryan Dahl talk about his regrets and challenge
+
+Js ia dynamic language wher as dynamic language is the right tool for scientiic computing.
+
+V8 y itself is a very good security sandbox.
+
+Node could have had some nice securikty guarantees not available in any other language
+
+Its unfortunate that there is a centralized (privately controlled even) repository for modules.
+
+Dano is a secure typescript runtime on V8 working on the tag line.
+
+Dano goals is to simply the module system
